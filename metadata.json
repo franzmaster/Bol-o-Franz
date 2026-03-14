@@ -1,0 +1,5 @@
+{
+  "name": "Bolão Franz",
+  "description": "Seu Bolão da Copa 2026. Plataforma de apostas com autenticação Supabase e envio direto para WhatsApp.",
+  "requestFramePermissions": []
+}
